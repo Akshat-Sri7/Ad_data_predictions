@@ -9,3 +9,5 @@ The dataset has been taken from Kaggle [link](https://www.kaggle.com/datasets/ga
 *scikit-learn  
 
 You can just run ```pip install -r requirements.txt``` in terminal to install the necessary dependencies. Here is a link to [pip](https://pip.pypa.io/en/stable/installation/) if you don't already have it.
+# Usage 
+The code is being written in Jupyter Notebook, I personally used [Anaconda](https://www.anaconda.com/products/distribution) distributed jupyter notebook to write the code. I recommend using the same, to get the scatter plot and line of best fit without facing any memory or other issues.
